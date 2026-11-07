@@ -4,6 +4,9 @@
 Usage: python normalize_exceptions.py exceptions.csv [clean_output.csv]
 Prints a summary by event type and a list of records that need human review.
 Nothing is silently guessed: anything uncertain is flagged, never dropped.
+
+To Run: python normalize_exceptions.py exceptions.csv exceptions_clean.csv
+To Test: python test_normalize.py
 """
 import csv
 import re
