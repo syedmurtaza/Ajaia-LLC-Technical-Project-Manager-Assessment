@@ -1,7 +1,9 @@
 # Ajaia Technical Project Manager Assessment: Syed Murtaza Hussain Kazmi
 
 **Video:** https://screenrec.com/share/68U5g0RSJI
+
 **Reference:** https://ajaia.ai
+
 **Build files:** `normalize_exceptions.py`, `test_normalize.py`, `exceptions.csv` (input), `exceptions_clean.csv` (output)
 
 *Scenario date assumed: Monday, August 17. Go-live: Tuesday, September 8.*
