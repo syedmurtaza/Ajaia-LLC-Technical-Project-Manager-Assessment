@@ -1,0 +1,6 @@
+exception_id,terminal,event_type,carrier_code,event_ts,tz,review_notes
+CPX-88213,Terminal 3,missed_pickup,SWFT,2026-08-14T09:12:00,unspecified,
+CPX-88214,Terminal 3,doc_mismatch,SWFT,2026-08-14T09:45:00,unspecified,
+CPX-88215,Terminal 3,missed_pickup,SWFT,2026-08-14T10:03:00,UTC (explicit),"only record with explicit UTC; others have no timezone - NOT converted, confirm FreightWorks timezone"
+CPX-88216,Terminal 3,doc_mismatch,,2026-08-14T11:47:00,unspecified,"carrier code missing - cannot infer, ask Corrigan Peak IT"
+CPX-88217,Terminal 3,carrier_substitution,RLCX,2026-08-15T08:02:00,unspecified,
